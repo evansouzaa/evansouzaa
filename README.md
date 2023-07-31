@@ -1,14 +1,15 @@
 <div>
 
-## Me chamo Evandro!
+:smile_cat:
+Olá, eu sou Evandro, um profissional criativo e apaixonado por tecnologia e comunicação. Tenho mais de 3 anos de experiência em desenvolvimento e mais de 10 anos atuando em tecnologia da informação, atuando em projetos pessoais variados e desafiadores, minha paixão é automação de processos.
 
-Oi :smile_cat:
-#### Sou amante de tecnologia, o que mais me encanta é ver como hoje somos um mundo totalmente dependetes desta bruxaria.
-#### Gosto desde arduinos programados em c á apps de inteligencia artificial que criam imagens. :hear_no_evil:
-#### Sempre muito curioso, consumindo e bolando alguma api nova. :bulb:
-#### Estudando bastante Javascript e todo seu ecossistema.
-#### Paixão é automação de processos.
-#### Atualmente trabalho com tecnologia na área de Redes de Computadores e Telecomunicações.
+Tenho experiência em desenvolver sistemas funcionais e originais que auxiliam nos processos da empresa onde trabalho atualmente. Estou em busca de novas oportunidades na área de Desenvolvimento de sistemas, onde possa aplicar e aprender novas tecnologias.
+
+Você pode conferir alguns dos meus projetos mais recentes em meu github
+
+Sou uma pessoa proativa, comunicativa e organizada, que gosta de trabalhar em equipe e resolver problemas. Estou aberto a novas oportunidades de trabalho e parcerias, onde possa aplicar as minhas habilidades e contribuir para o sucesso dos projetos.
+
+Se você quiser saber mais sobre mim ou entrar em contato, fique à vontade para me enviar uma mensagem. Obrigado pela sua atenção e espero que tenhamos a chance de trabalhar juntos em breve!
 </div>
 
 ___
