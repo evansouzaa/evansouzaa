@@ -1,5 +1,4 @@
 <div>
-
 :smile_cat:
 Olá, eu sou Evandro, um profissional criativo e apaixonado por tecnologia e comunicação. Tenho mais de 3 anos de experiência em desenvolvimento e mais de 10 anos atuando em tecnologia da informação, atuando em projetos pessoais variados e desafiadores, minha paixão é automação de processos.
 
@@ -11,24 +10,19 @@ Se você quiser saber mais sobre mim ou entrar em contato, fique à vontade para
 </div>
 
 ___
-<div>
 
+<h3 align="left">Meus contatos</h3>  
 <a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" target="_blank" ><img  align="center"  alt="aplicatito de mensagem whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-<a  href="https://www.linkedin.com/in/evansouzaa/" target="_blank"><img  align="center"  alt="rede social de trabalhadores"  height="30"  width="110"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a  href="https://www.linkedin.com/in/evansouzaa/" target="_blank"><img  align="center"  alt="rede social de trabalhadores"  height="30"  width="110"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a  href="mailto:evandro.souza.pereira@gmail.com" target="_blank"><img  align="center"  height="30"  alt="correio eletronico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a  href="mailto:evandro.souza.pereira@gmail.com" target="_blank"><img  align="center"  height="30"  alt="correio eletronico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ___
 <div>
 
-### Algumas tecnologias que uso/usei :man_technologist:
-
-<br>
-
-Linguagens
+### Algumas tecnologias que utilizo :man_technologist:
 
 <img  alt="javascript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -36,23 +30,20 @@ Linguagens
 
 <img  alt="c"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-___
-Banco de Dados
 
+### Database
 <img  alt="mariadb"  src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
 <img  alt="mongodb"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-___
-Design
 
+### Design
 <img  alt="figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img  alt="photoshop"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 
-___
-Frameworks
 
+### Frameworks
 <img  alt="node"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <img  alt="react"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -68,8 +59,8 @@ Frameworks
 <img  alt="nginx"  src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ___
-Outros
 
+### OS
 <img  alt="linuxmint"  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 
 <img  alt="arduino"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -78,8 +69,8 @@ Outros
 
 <img  alt="windows95"  src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/>
 
-___
 ...
-
 <img  alt="comida"  src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evansouzaa&label=Profile%20views&color=0e75b6&style=flat" alt="evansouzaa" /> </p>
 </div>
