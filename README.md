@@ -5,8 +5,6 @@ Olá, eu sou Evandro, um profissional criativo e apaixonado por tecnologia e com
 
 Tenho experiência em desenvolver sistemas funcionais e originais que auxiliam nos processos da empresa onde trabalho atualmente. Estou em busca de novas oportunidades na área de Desenvolvimento de sistemas, onde possa aplicar e aprender novas tecnologias.
 
-Você pode conferir alguns dos meus projetos mais recentes em meu github
-
 Sou uma pessoa proativa, comunicativa e organizada, que gosta de trabalhar em equipe e resolver problemas. Estou aberto a novas oportunidades de trabalho e parcerias, onde possa aplicar as minhas habilidades e contribuir para o sucesso dos projetos.
 
 Se você quiser saber mais sobre mim ou entrar em contato, fique à vontade para me enviar uma mensagem. Obrigado pela sua atenção e espero que tenhamos a chance de trabalhar juntos em breve!
