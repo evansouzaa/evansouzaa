@@ -10,13 +10,18 @@ Se você quiser saber mais sobre mim ou entrar em contato, fique à vontade para
 </div>
 
 ___
-
+<div>
 <h3 align="left">Meus contatos</h3>  
-<a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" target="_blank" ><img  align="center"  alt="aplicatito de mensagem whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" target="_blank"><img  align="center" alt="aplicatito de mensagem whatsapp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-<a  href="https://www.linkedin.com/in/evansouzaa/" target="_blank"><img  align="center"  alt="rede social de trabalhadores"  height="30"  width="110"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a  href="https://www.linkedin.com/in/evansouzaa/" target="_blank">
+<img align="center" alt="rede social de trabalhadores" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a  href="mailto:evandro.souza.pereira@gmail.com" target="_blank"><img  align="center"  height="30"  alt="correio eletronico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a  href="mailto:evandro.souza.pereira@gmail.com" target="_blank">
+<img align="center" height="30" alt="correio eletrônico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 ___
