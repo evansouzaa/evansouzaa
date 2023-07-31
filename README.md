@@ -74,8 +74,9 @@ ___
 
 <img  alt="windows95"  src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white"/>
 
+<br>
 ...
-<img  alt="comida"  src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"/>
+<img alt="comida"  src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evansouzaa&label=Profile%20views&color=0e75b6&style=flat" alt="evansouzaa" /> </p>
 </div>
