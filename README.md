@@ -1,15 +1,18 @@
 <div>
-:smile_cat: Olá! Sou Evandro, profissional de tecnologia com mais de 3 anos de experiência em desenvolvimento. 
-Adoro automação de processos, crio sistemas eficientes para otimizar operações empresariais. 
-Atualmente em busca de oportunidades em Desenvolvimento de Sistemas, sou proativo, comunicativo e apaixonado por resolver desafios em equipe. 
-Aberto a parcerias, estou pronto para contribuir para o sucesso de projetos. 
-Para saber mais ou entrar em contato, envie uma mensagem. 
-Obrigado pela atenção!
+  <p>
+  :smile_cat: Hello! I'm Evandro, a technology professional with over 3 years of development experience. <br>
+    Specializing in process automation, I create efficient systems to streamline business operations. <br>
+    Currently seeking opportunities in Systems Development, I am proactive, communicative, and passionate about solving challenges as part of a team. <br>
+    Open to partnerships, I'm ready to contribute to the success of projects. To learn more or get in touch, feel free to send a message. <br>
+    Thank you for your attention!
+  </p>
 </div>
+
+
 
 ___
 <div>
-<h3 align="left">Meus contatos</h3>  
+<h3 align="left">My contacts</h3>  
 <a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" target="_blank"><img  align="center" alt="aplicatito de mensagem whatsapp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -25,7 +28,7 @@ ___
 ___
 <div>
 
-### Algumas tecnologias que utilizo :man_technologist:
+### Technologies :man_technologist:
 
 <img  alt="javascript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
