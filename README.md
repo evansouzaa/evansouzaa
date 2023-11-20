@@ -1,12 +1,10 @@
 <div>
-:smile_cat:
-Olá, eu sou Evandro, um profissional criativo e apaixonado por tecnologia e comunicação. Tenho mais de 3 anos de experiência em desenvolvimento e mais de 10 anos atuando em tecnologia da informação, atuando em projetos pessoais variados e desafiadores, minha paixão é automação de processos.
-
-Tenho experiência em desenvolver sistemas funcionais e originais que auxiliam nos processos da empresa onde trabalho atualmente. Estou em busca de novas oportunidades na área de Desenvolvimento de sistemas, onde possa aplicar e aprender novas tecnologias.
-
-Sou uma pessoa proativa, comunicativa e organizada, que gosta de trabalhar em equipe e resolver problemas. Estou aberto a novas oportunidades de trabalho e parcerias, onde possa aplicar as minhas habilidades e contribuir para o sucesso dos projetos.
-
-Se você quiser saber mais sobre mim ou entrar em contato, fique à vontade para me enviar uma mensagem. Obrigado pela sua atenção e espero que tenhamos a chance de trabalhar juntos em breve!
+:smile_cat: Olá! Sou Evandro, profissional de tecnologia com mais de 3 anos de experiência em desenvolvimento. 
+Adoro automação de processos, crio sistemas eficientes para otimizar operações empresariais. 
+Atualmente em busca de oportunidades em Desenvolvimento de Sistemas, sou proativo, comunicativo e apaixonado por resolver desafios em equipe. 
+Aberto a parcerias, estou pronto para contribuir para o sucesso de projetos. 
+Para saber mais ou entrar em contato, envie uma mensagem. 
+Obrigado pela atenção!
 </div>
 
 ___
