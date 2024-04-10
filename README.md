@@ -1,10 +1,10 @@
 <div>
   <p>
-  :smile_cat: Hello! I'm Evandro, a technology professional with over 3 years of development experience. <br>
-    Specializing in process automation, I create efficient systems to streamline business operations. <br>
-    Currently seeking opportunities in Systems Development, I am proactive, communicative, and passionate about solving challenges as part of a team. <br>
-    Open to partnerships, I'm ready to contribute to the success of projects. To learn more or get in touch, feel free to send a message. <br>
-    Thank you for your attention!
+  :smile_cat: Hello! Olá! Sou Evandro, profissional de tecnologia com mais de 3 anos de experiência em desenvolvimento.
+Especializado em automação de processos, crio sistemas eficientes para agilizar as operações de negócios.
+Atualmente em busca de oportunidades em Desenvolvimento de Sistemas, sou proativo, comunicativo e apaixonado por solucionar desafios em equipe.
+Aberto a parcerias, estou pronto para contribuir para o sucesso dos projetos. Para saber mais entre em contato, fique à vontade para enviar uma mensagem.
+Obrigado pela sua atenção!
   </p>
 </div>
 
