@@ -1,6 +1,6 @@
 <div>
   <p>
-  :smile_cat: Hello! Olá! Sou Evandro, profissional de tecnologia com mais de 3 anos de experiência em desenvolvimento.
+  :smile_cat: Hello! Sou Evandro, profissional de tecnologia com mais de 3 anos de experiência em desenvolvimento.
 Especializado em automação de processos, crio sistemas eficientes para agilizar as operações de negócios.
 Atualmente em busca de oportunidades em Desenvolvimento de Sistemas, sou proativo, comunicativo e apaixonado por solucionar desafios em equipe.
 Aberto a parcerias, estou pronto para contribuir para o sucesso dos projetos. Para saber mais entre em contato, fique à vontade para enviar uma mensagem.
