@@ -15,6 +15,8 @@ I'm Evandro, technology lover and passione programing, I love learning new techn
 ## GitHub Stats
 
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evansouzaa&show_icons=true&theme=dracula)
+-
+![Visitor Count](https://komarev.com/ghpvc/?username=evansouzaa&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Connect with Me
 
