@@ -4,11 +4,11 @@ I'm Evandro, technology lover and passione programing, I love learning new techn
 
 ## About Me
 
-- 🔭 I’m currently working on **[altarede_ativacao](https://github.com/evansouzaa/altarede_ativacao)**
-- 🌱 I’m currently learning **Next.js, Angular and Qlik**
+- 🔭 I’m currently working on **[clinex.me](https://github.com/evansouzaa/app_agenda_clinica)**
+- 🌱 I’m currently learning **Next.js, IA and Java**
 - 👯 I’m looking to collaborate on **automations projects**
 - 🤔 I’m looking for help with **start a new job**
-- 💬 Ask me about **Web development, Typescript, Devops**
+- 💬 Ask me about **Web development, Typescript, Devops and IA**
 
 - ⚡ Fun fact: **I love drones and technology, currently automating my home**
 
